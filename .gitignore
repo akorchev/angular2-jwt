@@ -5,10 +5,10 @@ typings
 Thumbs.db
 .DS_Store
 
-*.js
 !karma.conf.js
 *.map
-*.d.ts
+*.spec.js
+*.spec.d.*
 !custom.d.ts
 .idea/
 *.iml

@@ -10,7 +10,7 @@
     "dev": "tsc --watch",
     "test": "karma start",
     "prepublish": "tsc",
-    "ngc":"ngc"
+    "ngc": "ngc"
   },
   "keywords": [
     "angular",
@@ -57,5 +57,8 @@
     "@angular/core": "^2.0.0",
     "@angular/http": "^2.0.0",
     "rxjs": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/jasmine": "^2.2.33"
   }
 }
