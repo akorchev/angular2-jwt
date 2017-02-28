@@ -7,6 +7,7 @@ Thumbs.db
 
 # TypeScript source files, apart generated type definitions
 *.ts
+!angular2-jwt.ts
 !*.d.ts
 
 # Other generated files
