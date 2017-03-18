@@ -4,4 +4,3 @@ function encodeTestToken(payload) {
     return "." + btoa(JSON.stringify(payload)) + ".";
 }
 exports.encodeTestToken = encodeTestToken;
-//# sourceMappingURL=angular2-jwt-test-helpers.js.map

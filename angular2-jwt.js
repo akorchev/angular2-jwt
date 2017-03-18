@@ -347,4 +347,3 @@ var AuthModule = (function () {
     return AuthModule;
 }());
 exports.AuthModule = AuthModule;
-//# sourceMappingURL=angular2-jwt.js.map
